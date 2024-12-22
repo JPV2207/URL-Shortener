@@ -73,4 +73,3 @@ This is a simple URL shortener application. It allows users to shorten long URLs
 
 ---
 
-Let me know if you need any more adjustments or additional information!
